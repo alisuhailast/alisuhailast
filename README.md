@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisuhailast
 - 👀 I’m interested in ...programing
- 🌱 I’m currently learning ...electronics engineer
+ 🌱 I’m currently learning ...electronics engineering
 -
 
 <!---
